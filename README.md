@@ -1,4 +1,4 @@
-# Fractional Stock Token Whitepaper
+# Fractional Stock Token
 
 ## Executive Summary
 
